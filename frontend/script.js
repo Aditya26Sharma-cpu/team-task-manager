@@ -1,4 +1,4 @@
-const API_URL = "http://team-task-manager-production-ac7c.up.railway.app/api";
+const API_URL = "https://team-task-manager-production-ac7c.up.railway.app/api";
 
 let token = "";
 
